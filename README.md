@@ -61,4 +61,7 @@ This github repository has information and materials for the ReproRehab program.
 *Presentations by Learners and TAs*
 - Final ReproRehab All Hands Meeting
 
-*Follow us on Twitter for updates: @reprorehab*
+## STAY UP TO DATE
+*Follow us on Twitter: @reprorehab*
+
+*Website: https://www.reprorehab.usc.edu/*
