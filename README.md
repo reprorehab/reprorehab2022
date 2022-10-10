@@ -6,7 +6,7 @@ This github repository has information and materials for the ReproRehab program.
 
 ## SCHEDULE
 
-### **WEEKS 1 - 7: EVERYONE**
+### **WEEKS 1 - 3: EVERYONE**
 ### Oct 10 - Week 1: Intro to ReproRehab 
 *Why do we need reproducible methods in rehabilitation? Overview and principles of reproducible science. (Slack, Github)*
 - ReproRehab All Hands Meeting, Pods meeting
