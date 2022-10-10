@@ -6,8 +6,7 @@ This github repository has information and materials for the ReproRehab program.
 
 ## SCHEDULE
 
-
-### **Weeks 1 - 7: Everyone**
+### **WEEKS 1 - 7: EVERYONE**
 ### Oct 10 - Week 1: Intro to ReproRehab 
 *Why do we need reproducible methods in rehabilitation? Overview and principles of reproducible science. (Slack, Github)*
 - ReproRehab All Hands Meeting, Pods meeting
@@ -28,7 +27,7 @@ This github repository has information and materials for the ReproRehab program.
 > - Video content forthcoming
 
 
-### **Weeks 4-7: Pod-specific Content**
+### **WEEKS 4-7: POD-SPECIFIC CONTENT**
 *For these four weeks, pods will select a curriculum based on learner’s needs.*
 
 *ReproRehab will provide introductory and/or intermediate course curricula with asynchronous videos and hands-on exercises in Matlab, R, and/or python, as well as on data archiving, data management, and more (and pods are welcome to chose course content from outside sources as well).*
@@ -48,7 +47,7 @@ This github repository has information and materials for the ReproRehab program.
 ### Nov 28 - Week 7
 - Pods meeting
 
-### **Weeks 8 - 24: Everyone**
+### **WEEKS 8 - 24: EVERYONE**
 
 ### Dec 5 - Week 8: Launching into self-guided learning
 *What types of online learning opportunities are available to rehabilitation researchers?*
@@ -62,6 +61,4 @@ This github repository has information and materials for the ReproRehab program.
 *Presentations by Learners and TAs*
 - Final ReproRehab All Hands Meeting
 
-
-### Stay up to date
-Follow us on Twitter for updates: @reprorehab
+*Follow us on Twitter for updates: @reprorehab*
