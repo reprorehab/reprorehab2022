@@ -42,7 +42,7 @@ This github repository has information and materials for the ReproRehab program.
 ### Nov 14 - Week 6
 - Pods meeting
 
-### *Nov 21 - No class, Thanksgiving Break*
+#### *Nov 21 - No class, Thanksgiving Break*
 
 ### Nov 28 - Week 7
 - Pods meeting
