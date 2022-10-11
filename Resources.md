@@ -10,16 +10,16 @@ This documents collects material supporting the lectures on YouTube.
 
 
 ### A bit more about the ReproPub:
-- Presentation by David Kennedy on ReproPub: https://zenodo.org/record/3336609#.Y0UK5exBzX0
-- [Scientific paper of the future:](https://scientificpaperofthefuture.org/#:~:text=The%20Scientific%20Papers%20of%20the,digital%20products%20of%20their%20research)
-- [A very simple, re-executable neuroimaging publication:](https://pubmed.ncbi.nlm.nih.gov/28781753/)
+- Presentation by David Kennedy on [ReproPub](https://zenodo.org/record/3336609#.Y0UK5exBzX0)
+- [Scientific paper of the future](https://scientificpaperofthefuture.org/#:~:text=The%20Scientific%20Papers%20of%20the,digital%20products%20of%20their%20research)
+- [A very simple, re-executable neuroimaging publication](https://pubmed.ncbi.nlm.nih.gov/28781753/)
 
 ### On statistical problems
-Biau et al 2010:  https://pubmed.ncbi.nlm.nih.gov/19921345/
-Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations https://www.ncbi.nlm.nih.gov/pubmed/27209009
-Simonsohn et al 2014 : https://pages.ucsd.edu/~cmckenzie/Simonsohnetal2014JEPGeneral.pdf
-Simons and Simonson 2011: https://journals.sagepub.com/doi/full/10.1177/0956797611417632
-Button: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124
+[Biau et al 2010](https://pubmed.ncbi.nlm.nih.gov/19921345/)
+Statistical tests, P values, confidence intervals, and power: a guide to (misinterpretations)[https://www.ncbi.nlm.nih.gov/pubmed/27209009]
+[Simonsohn et al 2014](https://pages.ucsd.edu/~cmckenzie/Simonsohnetal2014JEPGeneral.pdf)
+[Simons and Simonson 2011](https://journals.sagepub.com/doi/full/10.1177/0956797611417632)
+[Button et al. 2013](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
 
 ### Other useful resources:
 
