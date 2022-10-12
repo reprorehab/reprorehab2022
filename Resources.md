@@ -6,7 +6,7 @@ This documents collects material supporting the lectures on YouTube.
 
 ### On principle of Reproducible Science:
 - [Nosek, 2015](https://www.science.org/doi/10.1126/science.aac4716): Estimating the reproducibility of psychological science.
-- [Kapur, Phillips and Insel, 2012](https://pubmed.ncbi.nlm.nih.gov/22869033/): Why has it taken so long for biological psychiatry to develop clinical tests and what to do about it?
+- [Kapur et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22869033/): Why has it taken so long for biological psychiatry to develop clinical tests and what to do about it?
 
 
 ### A bit more about the ReproPub:
@@ -15,9 +15,9 @@ This documents collects material supporting the lectures on YouTube.
 - [A very simple, re-executable neuroimaging publication](https://pubmed.ncbi.nlm.nih.gov/28781753/)
 
 ### On statistical problems
-- [Biau et al 2010](https://pubmed.ncbi.nlm.nih.gov/19921345/): P value and the theory of hypothesis testing: an explanation for new researchers.
+- [Biau et al., 2010](https://pubmed.ncbi.nlm.nih.gov/19921345/): P value and the theory of hypothesis testing: an explanation for new researchers.
 - Statistical tests, P values, confidence intervals, and power: a guide to [misinterpretations](https://www.ncbi.nlm.nih.gov/pubmed/27209009)
-- [Simonsohn et al 2014](https://pages.ucsd.edu/~cmckenzie/Simonsohnetal2014JEPGeneral.pdf): P-Curve: A Key to the File-Drawer.
+- [Simonsohn et al.,  2014](https://pages.ucsd.edu/~cmckenzie/Simonsohnetal2014JEPGeneral.pdf): P-Curve: A Key to the File-Drawer.
 - [Simons and Simonson 2011](https://journals.sagepub.com/doi/full/10.1177/0956797611417632): False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant.
 - [Ioannidis, 2005](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124): Why Most Published Research Findings Are False.
 
