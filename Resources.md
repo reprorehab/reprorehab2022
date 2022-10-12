@@ -4,7 +4,7 @@ This documents collects material supporting the lectures on YouTube.
 
 ## First lecture
 
-(Some) papers from the lecture:
+On principle of Reproducible Science:
 - [Nosek, 2015](https://www.science.org/doi/10.1126/science.aac4716)
 - [Kapur, Phillips and Insel, 2012](https://pubmed.ncbi.nlm.nih.gov/22869033/)
 
@@ -16,14 +16,14 @@ This documents collects material supporting the lectures on YouTube.
 
 ### On statistical problems
 - [Biau et al 2010](https://pubmed.ncbi.nlm.nih.gov/19921345/)
-- Statistical tests, P values, confidence intervals, and power: a guide to (misinterpretations)[https://www.ncbi.nlm.nih.gov/pubmed/27209009]
+- Statistical tests, P values, confidence intervals, and power: a guide to [misinterpretations](https://www.ncbi.nlm.nih.gov/pubmed/27209009)
 - [Simonsohn et al 2014](https://pages.ucsd.edu/~cmckenzie/Simonsohnetal2014JEPGeneral.pdf)
 - [Simons and Simonson 2011](https://journals.sagepub.com/doi/full/10.1177/0956797611417632)
 - [Button et al. 2013](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
 
 ### Other useful resources:
 
-[Stack quest](https://www.youtube.com/c/joshstarmer)
+[Stack quest](https://www.youtube.com/c/joshstarmer):
 You tube Channel explaining machine learning topics in an understandable way.
 
 [Retraction watch](https://retractionwatch.com/):
