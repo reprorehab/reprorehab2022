@@ -19,7 +19,11 @@ This github repository has information and materials for the ReproRehab program.
 ### Oct 17 - Week 2: Reproducible Data Management/Organization 
 *Basics of data organization, file formatting, naming for machine-readable data, meta- data. How to approach research questions with reproducibility in mind.*
 - Pods meeting
-> - Video content forthcoming
+
+> - Week 2: Intro to Reproducible Principles for Data Analysis and Management https://youtu.be/jn2ZA00ePAg
+> - Week 2: Introduction to Data Analysis https://youtu.be/13IuiwPAPUY
+> - Week 2: Data Standardization: A (very) short introduction https://youtu.be/pPL_sASvKbQ
+> - Week 2: DataLad Introduction (optional but highly recommended) https://www.youtube.com/watch?v=40ZcGp2vHXk
 
 ### Oct 24 - Week 3: Open Datasets
 *FAIR data principles, open-source datasets, data transfer agreements, and ReproRehabDB (our database for courses/open datasets).*
