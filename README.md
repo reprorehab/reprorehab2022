@@ -27,7 +27,11 @@ Everyone: [W8-24](#weeks-8---24-everyone)
 
 *Why do we need reproducible methods in rehabilitation? Overview and principles of reproducible science. (Slack, Github)*
 
-Meeting: ReproRehab All Hands Meeting, Pods meeting
+| Meetings | Date | Time | Location |
+| ------- | ----- | ---- | -------- |
+| ReproRehab All Hands Meeting | Oct 12 | 3p EST | Zoom |
+| Pods meeting | Contact TA | --- | Zoom |
+
 
 | Content | Video | 
 | -- | ----- | 
@@ -39,7 +43,9 @@ Meeting: ReproRehab All Hands Meeting, Pods meeting
 > ### Week 2 (Oct 17) - Reproducible Data Management/Organization 
 *Basics of data organization, file formatting, naming for machine-readable data, meta- data. How to approach research questions with reproducibility in mind.*
 
-Meeting: Pods meeting
+| Meetings | Date | Time | Location |
+| ------- | ----- | ---- | -------- |
+| Pods meeting | Contact TA | --- | Zoom |
 
 | Content | Video | 
 | -- | ----- | 
@@ -52,7 +58,9 @@ Meeting: Pods meeting
 > ### Week 3 (Oct 24) - Open Datasets
 *FAIR data principles, open-source datasets, data transfer agreements, and ReproRehabDB (our database for courses/open datasets).*
 
-Meeting: Pods meeting
+| Meetings | Date | Time | Location |
+| ------- | ----- | ---- | -------- |
+| Pods meeting | Contact TA | --- | Zoom |
 
 | Content | Video | 
 | -- | ----- | 
@@ -69,7 +77,11 @@ Meeting: Pods meeting
 
 *ReproRehab will provide introductory and/or intermediate course curricula with asynchronous videos and hands-on exercises in Matlab, R, and/or python, as well as on data archiving, data management, and more (and pods are welcome to chose course content from outside sources as well).*
 
-|  Resources  | Playlist | 
+| Meetings | Date | Time | Location |
+| ------- | ----- | ---- | -------- |
+| Pods meeting | 1/wk | Contact TA | Zoom |
+
+|  Content  | Playlist | 
 | -- | ----- | 
 | ReproRehab: Introduction to R | [![YouTube Playlist](https://img.shields.io/badge/-YouTube-red)](https://www.youtube.com/playlist?list=PLV4PTzGI0GjUz-ZEJ6MYkhT7l7UOsfQLe) |
 | ReproRehab: Introduction to Matlab | [![Coming Soon](https://img.shields.io/badge/ComingSoon-important)]() |
@@ -78,22 +90,29 @@ Meeting: Pods meeting
 
 > ### Week 4 (Oct 31) 
 
-- Pods meeting
+| Meetings | Date | Time | Location |
+| ------- | ----- | ---- | -------- |
+| Pods meeting | Contact TA | --- | Zoom |
 
 > ### Week 5 (Nov 7)
 
-- Pods, SFN meet-up
+| Meetings | Date | Time | Location |
+| ------- | ----- | ---- | -------- |
+| Pods meeting | TBD | --- | SfN |
 
 > ### Week 6 (Nov 14)
 
-- Pods meeting
+| Meetings | Date | Time | Location |
+| ------- | ----- | ---- | -------- |
+| Pods meeting | Contact TA | --- | Zoom |
 
 > #### *Nov 21 - No class, Thanksgiving Break*
 
 > ### Week 7 (Nov 28)
 
-- Pods meeting
-
+| Meetings | Date | Time | Location |
+| ------- | ----- | ---- | -------- |
+| Pods meeting | Contact TA | --- | Zoom |
 ---
 
 ### **WEEKS 8 - 24: EVERYONE**
@@ -102,18 +121,28 @@ Meeting: Pods meeting
 
 *What types of online learning opportunities are available to rehabilitation researchers?*
 
-- ReproRehab All Hands Meeting, Pods meeting
+| Meetings | Date | Time | Location |
+| ------- | ----- | ---- | -------- |
+| ReproRehab All Hands Meeting | TBD | TBD | Zoom |
+| Pods meeting | Contact TA | --- | Zoom |
 
 
 > ### Weeks 9-24 (Dec 12 - Apr 3) - 4-MONTH SELF-GUIDED PROGRAM 
 
 *Learning from online course materials and applying it to your own research; ASNR Meet-up*
 
+| Meetings | Date | Time | Location |
+| ------- | ----- | ---- | -------- |
+| Pods meeting | Contact TA | --- | Zoom |
+| Pods meeting | TBD | --- | ASNR |
+
 > ### Week 24 (Apr 3) - Follow-up and evaluations 
 
 *Presentations by Learners and TAs*
 
-- Final ReproRehab All Hands Meeting
+| Meetings | Date | Time | Location |
+| ------- | ----- | ---- | -------- |
+| Final ReproRehab All Hands Meeting | TBD | TBD | Zoom |
 
 ---
 
