@@ -27,13 +27,9 @@ Everyone: [W8-24](#weeks-8---24-everyone)
 
 *Why do we need reproducible methods in rehabilitation? Overview and principles of reproducible science. (Slack, Github)*
 
-Meeting:
+Meeting: ReproRehab All Hands Meeting, Pods meeting
 
-ReproRehab All Hands Meeting, Pods meeting
-
-Content
-
-|    | Video | 
+| Content | Video | 
 | -- | ----- | 
 | Welcome to ReproRehab | [![YouTube Views](https://img.shields.io/youtube/views/lz5U9nwPIjo?style=social)](https://youtu.be/lz5U9nwPIjo) [![YouTube Comments](https://img.shields.io/youtube/comments/lz5U9nwPIjo?style=social)](https://youtu.be/lz5U9nwPIjo) [![YouTube Likes](https://img.shields.io/youtube/likes/lz5U9nwPIjo?style=social)](https://youtu.be/lz5U9nwPIjo)|
 | Principles of Reproducible Science | [![YouTube Views](https://img.shields.io/youtube/views/rJTuXA9kaT4?style=social)](https://youtu.be/rJTuXA9kaT4) [![YouTube Comments](https://img.shields.io/youtube/comments/rJTuXA9kaT4?style=social)](https://youtu.be/rJTuXA9kaT4) [![YouTube Likes](https://img.shields.io/youtube/likes/rJTuXA9kaT4?style=social)](https://youtu.be/rJTuXA9kaT4)|
@@ -43,9 +39,9 @@ Content
 > ### Week 2 (Oct 17) - Reproducible Data Management/Organization 
 *Basics of data organization, file formatting, naming for machine-readable data, meta- data. How to approach research questions with reproducibility in mind.*
 
-- Pods meeting
+Meeting: Pods meeting
 
-|    | Video | 
+| Content | Video | 
 | -- | ----- | 
 | Intro to Reproducible Principles for Data Analysis and Management | [![YouTube Views](https://img.shields.io/youtube/views/jn2ZA00ePAg?style=social)](https://youtu.be/jn2ZA00ePAg) [![YouTube Comments](https://img.shields.io/youtube/comments/jn2ZA00ePAg?style=social)](https://youtu.be/jn2ZA00ePAg) [![YouTube Likes](https://img.shields.io/youtube/likes/jn2ZA00ePAg?style=social)](https://youtu.be/jn2ZA00ePAg)|
 | Introduction to Data Analysis | [![YouTube Views](https://img.shields.io/youtube/views/13IuiwPAPUY?style=social)](https://youtu.be/13IuiwPAPUY) [![YouTube Comments](https://img.shields.io/youtube/comments/13IuiwPAPUY?style=social)](https://youtu.be/13IuiwPAPUY) [![YouTube Likes](https://img.shields.io/youtube/likes/13IuiwPAPUY?style=social)](https://youtu.be/13IuiwPAPUY)|
@@ -56,9 +52,9 @@ Content
 > ### Week 3 (Oct 24) - Open Datasets
 *FAIR data principles, open-source datasets, data transfer agreements, and ReproRehabDB (our database for courses/open datasets).*
 
-- Pods meeting
+Meeting: Pods meeting
 
-|    | Video | 
+| Content | Video | 
 | -- | ----- | 
 | Introduction to Week 3 | [![YouTube Views](https://img.shields.io/youtube/views/ODFbVlIKOas?style=social)](https://youtu.be/ODFbVlIKOas) [![YouTube Comments](https://img.shields.io/youtube/comments/ODFbVlIKOas?style=social)](https://youtu.be/ODFbVlIKOas) [![YouTube Likes](https://img.shields.io/youtube/likes/ODFbVlIKOas?style=social)](https://youtu.be/ODFbVlIKOas)|
 | Week 3: Introduction to FAIR Data | [![YouTube Views](https://img.shields.io/youtube/views/keH4Tc6mXMk?style=social)](https://youtu.be/keH4Tc6mXMk) [![YouTube Comments](https://img.shields.io/youtube/comments/keH4Tc6mXMk?style=social)](https://youtu.be/keH4Tc6mXMk) [![YouTube Likes](https://img.shields.io/youtube/likes/keH4Tc6mXMk?style=social)](https://youtu.be/keH4Tc6mXMk)|
