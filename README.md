@@ -38,9 +38,11 @@ This github repository has information and materials for the ReproRehab program.
 *For these four weeks, pods will select a curriculum based on learner’s needs.*
 
 *ReproRehab will provide introductory and/or intermediate course curricula with asynchronous videos and hands-on exercises in Matlab, R, and/or python, as well as on data archiving, data management, and more (and pods are welcome to chose course content from outside sources as well).*
-> - First-Time Python, Unity, Arduinos, and Hardware/Software Integration (optional) https://youtube.com/playlist?list=PLJSDUL80OPJ9viDc__qqBLgTzASdALcQO
-> - ReproRehab: Introduction to R (optional) https://www.youtube.com/playlist?list=PLV4PTzGI0GjUz-ZEJ6MYkhT7l7UOsfQLe
 
+Some resources:
+> - ReproRehab: Introduction to R  https://www.youtube.com/playlist?list=PLV4PTzGI0GjUz-ZEJ6MYkhT7l7UOsfQLe
+> - ReproRehab: Introduction to Matlab (forthcoming)
+> - First-Time Python, Unity, Arduinos, and Hardware/Software Integration https://youtube.com/playlist?list=PLJSDUL80OPJ9viDc__qqBLgTzASdALcQO
 
 ### Oct 31 - Week 4
 - Pods meeting
