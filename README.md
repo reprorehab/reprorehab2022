@@ -106,7 +106,7 @@ Everyone: [W8-24](#weeks-8---24-everyone)
 | ------- | ----- | ---- | -------- |
 | Pods | Contact TA | --- | Zoom |
 
-> #### *Nov 21 - No class, Thanksgiving Break*
+> ### *Nov 21 - No class, Thanksgiving Break*
 
 > ### Week 7 (Nov 28)
 
