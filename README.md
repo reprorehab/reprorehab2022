@@ -123,6 +123,6 @@ Content
 
 > ## STAY UP TO DATE
 
-![Twitter](https://img.shields.io/twitter/follow/reprorehab?style=social)
+[![Twitter](https://img.shields.io/twitter/follow/reprorehab?style=social)](https://twitter.com/reprorehab)
 
 *[Website](https://www.reprorehab.usc.edu/)*
