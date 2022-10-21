@@ -29,8 +29,8 @@ Everyone: [W8-24](#weeks-8---24-everyone)
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| ReproRehab All Hands Meeting | Oct 12 | 3p EST | Zoom |
-| Pods meeting | Contact TA | --- | Zoom |
+| ReproRehab All Hands | Oct 12 | 3p EST | Zoom |
+| Pods | Contact TA | --- | Zoom |
 
 
 | Content | Video | 
@@ -45,7 +45,7 @@ Everyone: [W8-24](#weeks-8---24-everyone)
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| Pods meeting | Contact TA | --- | Zoom |
+| Pods | Contact TA | --- | Zoom |
 
 | Content | Video | 
 | -- | ----- | 
@@ -60,7 +60,7 @@ Everyone: [W8-24](#weeks-8---24-everyone)
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| Pods meeting | Contact TA | --- | Zoom |
+| Pods | Contact TA | --- | Zoom |
 
 | Content | Video | 
 | -- | ----- | 
@@ -79,7 +79,7 @@ Everyone: [W8-24](#weeks-8---24-everyone)
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| Pods meeting | 1/wk | Contact TA | Zoom |
+| Pods | 1/wk | Contact TA | Zoom |
 
 |  Content  | Playlist | 
 | -- | ----- | 
@@ -92,19 +92,19 @@ Everyone: [W8-24](#weeks-8---24-everyone)
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| Pods meeting | Contact TA | --- | Zoom |
+| Pods | Contact TA | --- | Zoom |
 
 > ### Week 5 (Nov 7)
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| Pods meeting | TBD | --- | SfN |
+| Pods | TBD | --- | SfN |
 
 > ### Week 6 (Nov 14)
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| Pods meeting | Contact TA | --- | Zoom |
+| Pods | Contact TA | --- | Zoom |
 
 > #### *Nov 21 - No class, Thanksgiving Break*
 
@@ -112,7 +112,7 @@ Everyone: [W8-24](#weeks-8---24-everyone)
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| Pods meeting | Contact TA | --- | Zoom |
+| Pods | Contact TA | --- | Zoom |
 ---
 
 ### **WEEKS 8 - 24: EVERYONE**
@@ -123,8 +123,8 @@ Everyone: [W8-24](#weeks-8---24-everyone)
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| ReproRehab All Hands Meeting | TBD | TBD | Zoom |
-| Pods meeting | Contact TA | --- | Zoom |
+| ReproRehab All Hands | TBD | TBD | Zoom |
+| Pods | Contact TA | --- | Zoom |
 
 
 > ### Weeks 9-24 (Dec 12 - Apr 3) - 4-MONTH SELF-GUIDED PROGRAM 
@@ -133,8 +133,8 @@ Everyone: [W8-24](#weeks-8---24-everyone)
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| Pods meeting | Contact TA | --- | Zoom |
-| Pods meeting | TBD | --- | ASNR |
+| Pods | Contact TA | --- | Zoom |
+| Pods | TBD | --- | ASNR |
 
 > ### Week 24 (Apr 3) - Follow-up and evaluations 
 
@@ -142,7 +142,7 @@ Everyone: [W8-24](#weeks-8---24-everyone)
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| Final ReproRehab All Hands Meeting | TBD | TBD | Zoom |
+| Final ReproRehab All Hands | TBD | TBD | Zoom |
 
 ---
 
