@@ -1,2 +1,2 @@
-# Machine Learning "POD" for ReproRehab
+# ReproRehab: Introduction to Machine Learning 
 Under construction, Please stand by...
