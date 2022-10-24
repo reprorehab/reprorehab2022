@@ -22,7 +22,7 @@ The remaining content will involve the analysis of [data](https://doi.org/10.608
 6. [Compute Summary Measures](#csm) 
 
 <h3 id="know-your-data">1. Know Your Data</h3>
-Here, we will perform some exploratory data analysis that will require you to import data into MATLAB and perform some basic data visualization. In Part 1 (16 min), we review content from the manuscript and data repository related to the study protocol, measurement characteristics, and data organzation. In Part 2 (46 min), we load the data in Matlab and use several techniques to explore the data in more detail. If the steps described in the video are new to you, you may want to review the following MATLAB tutorials. 
+Here, we will perform some exploratory data analysis that will require you to import data into MATLAB and perform some basic data visualization. In [Part 1 (16 min)](https://youtu.be/2vmQEn0TTXo?list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z), we review content from the manuscript and data repository related to the study protocol, measurement characteristics, and data organzation. In [Part 2 (46 min)](https://youtu.be/_654sbErhBw?list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z), we load the data in Matlab and use several techniques to explore the data in more detail. If the steps described in the video are new to you, you may want to review the following MATLAB tutorials. 
 
 - [Using the MATLAB Desktop (0.5 hrs)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=2)
 - [Visualizing Data in 2D and 3D (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=6)
@@ -46,7 +46,7 @@ Here, we will perform some exploratory data analysis that will require you to im
 Before creating figures to visualize your data, you should carefully consider the message you are trying to convey and be thoughtful about the type of figure you use to convey that message. The following video 1) provides an overview of the use cases for some of the most common forms of data visualization, 2) introduces key principles for graphical illustration of data, and 3) describes MATLAB-specific strategies for creating high-quality figures
 
 ## Video
-- [Principles of Graphical Illustration of Data in MATLAB (36 min)]
+- [Principles of Graphical Illustration of Data in MATLAB (36 min)](https://youtu.be/zBnza3SODw4?list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z)
 
 ## Reading (Optional)
 - [Rougier NP, Droettboom M, Bourne PE (2014) Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) 
