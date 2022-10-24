@@ -22,10 +22,10 @@ Each week of the 5-Week AI/ML course will focus on two pre-recorded lecture vide
 
 ## AI/ML Materials
 ### Week 1 ([Original ABCD-ReproNim Source](https://abcd-repronim.github.io/materials/aiml-week-1/))
-####Core Concepts in Machine Learning 1
+#### Core Concepts in Machine Learning 1
 Instructor: **Nikhil Bhagwat**, McGill University
 
-[Video](https://youtu.be/3a544HgaSfU)
+[Video](https://youtu.be/3a544HgaSfU) [Slides](https://docs.google.com/presentation/d/1UWifBI6DM52WFSoYwtdt5JbQ-crbOrArLJDxAPsfu8M/edit?usp=sharing)
 
 _Learning Objectives:_
 
@@ -45,7 +45,7 @@ _Readings:_
 #### Core Concepts in Machine Learning 2
 Instructor: **Jérôme Dockès**, McGill University
 
-[Video](https://youtu.be/c9ayKFSt_Ek)
+[Video](https://youtu.be/c9ayKFSt_Ek) [Slides](https://drive.google.com/file/d/1T1PAJ_ovM5YAVb3Z7paIGb2-_i7OQY0g/view?usp=sharing)
 
 _Learning Objectives:_
 
@@ -63,7 +63,7 @@ _Readings:_
 #### Supervised Machine Learning
 Instructor: **Meenakshi Khosla**, Cornell University
 
-[Video](https://youtu.be/TBFkkZHCAG4)
+[Video](https://youtu.be/TBFkkZHCAG4) [Slides](https://drive.google.com/file/d/1Q7T7Rdt-c4mtBha0PLHeoUqlrZRolhsb/view?usp=sharing)
 
 _Learning Objectives:_
 
@@ -84,7 +84,7 @@ _Readings:_
 ####Unsupervised Machine Learning
 Instructor: **Eric Bridgeford**, Johns Hopkins University (JHU)
 
-[Video](https://youtu.be/zewLyPPlqqg)
+[Video](https://youtu.be/zewLyPPlqqg) [Slides](https://drive.google.com/file/d/1YdXH0sQr2e4OqCuuCUBtEd8Jx1-KecVo/view?usp=sharing)
 
 _**Learning Objectives:**_
 
@@ -131,7 +131,7 @@ _**Readings:**_
 ####Machine Learning for Neuroimaging: Unsupervised ML
 Instructor: **Ting Xu**, Child Mind Institute (CMI)
 
-[Video](https://youtu.be/EnVLU0B5B2g) [Slides](https://drive.google.com/file/d/14nne1ExmHj3yGhHb1Kg7MSFZ_Vky3Rk9/view)
+[Video](https://youtu.be/EnVLU0B5B2g) [Slides](https://drive.google.com/file/d/14nne1ExmHj3yGhHb1Kg7MSFZ_Vky3Rk9/view) 
 
 _**Learning Objectives:**_
 
