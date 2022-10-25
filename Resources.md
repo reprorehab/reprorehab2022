@@ -24,10 +24,12 @@ This documents collects material supporting the lectures on YouTube.
 ### Other useful resources:
 
 [Stack quest](https://www.youtube.com/c/joshstarmer):
-You tube Channel explaining machine learning topics in an understandable way.
+YouTube Channel explaining machine learning topics in an understandable way.
 
 [Retraction watch](https://retractionwatch.com/):
 A website tracking papers that were retracted after publication. 
+
+[Markdown Guide](https://www.markdownguide.org/). Basics about writing markdown files. 
 
 Books:
 - [Applied multivariate statistical analysis](https://www.amazon.com/Applied-Multivariate-Statistical-Analysis-Wolfgang/dp/3030260054/ref=pd_lpo_3?pd_rd_i=3030260054&psc=1)
