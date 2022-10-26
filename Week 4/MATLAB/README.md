@@ -1,19 +1,41 @@
 # Objective
-The objective of the ReproRehab MATLAB curriculum is to help learners gain proficiency in creating rigorous, reproducible data analysis pipelines. To this end, learners will use a combination of video lectures, online tutorials, and hands-on activities to develop a set of analyses for an open-source data set comprised of kinematic, kinetic, and EMG data. As you work through the content, feel free to post comments and questions on ReproRehab Slack or reach out to the Teaching Assistants if you encounter any major challenges along the way.
+The objective of the ReproRehab MATLAB curriculum is to help learners gain proficiency creating rigorous, reproducible data analysis pipelines. To this end, you will use a combination of video lectures, online tutorials, and hands-on activities to decipher a pre-existing data analysis pipeline and develop their own analysis scripts for an open-source data set comprised of kinematic, kinetic, and EMG data. As you work through the content, feel free to post comments and questions on ReproRehab Slack or reach out to the Teaching Assistants if you encounter any major challenges along the way.
 
 # Week 4 - Introductory Material 
-### Maximum Time Committment - 4 Hrs
-Learners who have not been following the full ReproRehab curriculum should begin by watching the Introduction to Data Analysis video from Week 2 [here (40 min)](https://www.youtube.com/watch?v=13IuiwPAPUY). This video reviews key concepts about data and measurement and also provides a detailed description of the steps involved in a standard data analysis pipeline. 
+### Expected Time Committment - 3-4 Hrs
+If you have not been following the full ReproRehab curriculum, you should begin by watching the Introduction to Data Analysis video from Week 2 [here (40 min)](https://www.youtube.com/watch?v=13IuiwPAPUY). This video reviews key concepts about data and measurement and also provides a detailed description of the steps involved in a standard data analysis pipeline. 
 
-Next, those who are new to programming or who have little programming experience should watch the Introduction to Principles of Programming video [here (34 min)](https://www.youtube.com/watch?v=5g-9rYCMgKg&list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z&index=2). This video provides a brief overview of the most common use cases for MATLAB and then reviews key programming principles to keep in mind as you are developing your code. Most of these principles are derived from the book [MATLAB for Behavioral Scientists by Rosenbaum, Vaughan, and Wyble](https://www.mathworks.com/academia/books/matlab-for-behavioral-scientists-rosenbaum.html).
+Next, those who are new to programming or who have little programming experience should watch the Introduction to Principles of Programming video [here (34 min)](https://www.youtube.com/watch?v=5g-9rYCMgKg&list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z&index=2). This video provides a brief overview of the most common use cases for MATLAB and reviews key programming principles to keep in mind as you are developing your code. Most of these principles are derived from the book [MATLAB for Behavioral Scientists by Rosenbaum, Vaughan, and Wyble](https://www.mathworks.com/academia/books/matlab-for-behavioral-scientists-rosenbaum.html).
 
-The third video in the series [here (30 min)](https://www.youtube.com/watch?v=LEMKyLuiuKw&list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z&index=3) provides a walkthrough of the MATLAB interface for those who may be new to MATLAB. If you are using MATLAB for the first time, we highly recommend completing the [MATLAB OnRamp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) and the [Using the MATLAB Desktop](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=2) module of MATLAB Fundamentals through Mathworks. This is an interactive, online course that introduces many of the most fundamental elements of MATLAB through a series of easy-to-follow modules. 
+Once you have a general sense of why one might use MATLAB, you should watch the third video in the series [here (30 min)](https://www.youtube.com/watch?v=LEMKyLuiuKw&list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z&index=3) which provides a walkthrough of the MATLAB interface for those who may be new to MATLAB. If you are using MATLAB for the first time, we highly recommend completing the [MATLAB OnRamp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) and the [Using the MATLAB Desktop](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=2) module of MATLAB Fundamentals through Mathworks. This is an interactive, online course that introduces many of the most fundamental elements of MATLAB through a series of easy-to-follow modules. 
 
-The remaining content will involve the analysis of [data](https://doi.org/10.6084/m9.figshare.c.4494755) from a study of walking and stair descending ([Lencioni et al., 2019](https://doi.org/10.1038/s41597-019-0323-z)). This dataset was selected because it includes several different types of raw and processed data, and it is published as a Data Descriptor with detailed information about the study protocol, data structure, data reliability and validation, and links to the authors’ analysis code. You should read this paper and familiarize yourself with the structure and content of the data repository.
+# Week 5 - Reviewing a Detailed MATLAB Analysis Pipeline
+### Expected Time Committment - 3-4 Hrs
+This week, you will work through the code introduced previously to model a standard data analysis pipeline in MATLAB. To do so, please download the Simulated Adaptation Folder in the repository and run each of the four scripts sequentially. After verifying that the scripts work, watch the videos below where the code is reviewed in detail and discuss any pieces of the code that you are unsure about with your TA. In addition, links are provided to resources from Mathworks that learners may find helpful to understand some of the functions and approaches used throughout the analysis pipeline. Most learners will not need to work through the Generating Simulated Data video unless they would like to simulate data for their own purposes.
 
-# Step-by-Step Data Analysis Pipeline in MATLAB
+1. [Generating Simulated Data (18 min)]
 
-# Week 5 (Maximum Time Committment - 4 hrs)
+*Optional content*
+ - [Creating and Manipulating Arrays (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=3)
+ - [Accessing Data in Arrays (30 min)] (https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=4)
+ - [If Statements and For Loops (1.5 hrs)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=14)
+2. [Compiling Data (11 min)]
+
+*Optional content*
+- [Creating Structures in MATLAB (30 min)](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html)
+3. [Statistical Modeling of Data (15 min)]
+
+*Optional content*
+- [Interacting with Tables in MATLAB (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=9)
+4. [Visualizing Data (15 min)]
+
+*Optional content*
+- [Visualizing Data in 2D and 3D in MATLAB (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=6)
+
+# Week 6 - Developing a Step-by-Step Data Analysis Pipeline for Open Data
+### Expected Time Committment - 4 Hrs
+The remaining content for Weeks 6 and 7 will involve the analysis of [data](https://doi.org/10.6084/m9.figshare.c.4494755) from a study of walking and stair descending ([Lencioni et al., 2019](https://doi.org/10.1038/s41597-019-0323-z)). This dataset was selected because it includes several different types of raw and processed data, and it is published as a Data Descriptor with detailed information about the study protocol, data structure, data reliability and validation, and links to the authors’ analysis code. You should read this paper and familiarize yourself with the structure and content of the data repository.
+
 1. [Know Your Data](#know-your-data)
 2. [Know What You are Trying to Do](#kwyattd)
 3. [Import Data into MATLAB](#idim)
@@ -27,6 +49,8 @@ Here, we will perform some exploratory data analysis that will require you to im
 - [Using the MATLAB Desktop (0.5 hrs)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=2)
 - [Visualizing Data in 2D and 3D (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=6)
 
+#------------------- WORK IN PROGRESS -------------------
+
 <h3 id="kwyattd">2. Know What You are Trying to Do</h3>
 <h3 id="idim">3. Import Data into MATLAB </h3>
 
@@ -37,7 +61,7 @@ Here, we will perform some exploratory data analysis that will require you to im
 <h3 id="pnps">5. Perform Necessary Pre-Processing Steps </h3>
 <h3 id="csm">6. Compute Summary Measures </h3>
 
-# Week 6
+# Week 7
 7. [Create Figures](#cf)
 8. [Perform statistical analysis](#psa)
 9. [Save the results](#str)
