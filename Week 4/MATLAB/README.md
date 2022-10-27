@@ -13,23 +13,23 @@ Once you have a general sense of why one might use MATLAB, you should watch the 
 ### Expected Time Committment - 3-4 Hrs
 This week, you will work through the code introduced previously to model a standard data analysis pipeline in MATLAB. To do so, please download the Simulated Adaptation Folder in the repository and run each of the four scripts sequentially. After verifying that the scripts work, watch the videos below where the code is reviewed in detail and discuss any pieces of the code that you are unsure about with your TA. In addition, links are provided to resources from Mathworks that learners may find helpful to understand some of the functions and approaches used throughout the analysis pipeline. Most learners will not need to work through the Generating Simulated Data video unless they would like to simulate data for their own purposes.
 
-1. [Generating Simulated Data (18 min)]
+1. [Generating Simulated Data (18 min)](https://youtu.be/IKy4ubpPpI8)
 
-*Optional content*
+   *Optional content*
  - [Creating and Manipulating Arrays (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=3)
- - [Accessing Data in Arrays (30 min)] (https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=4)
+ - [Accessing Data in Arrays (30 min)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=4)
  - [If Statements and For Loops (1.5 hrs)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=14)
-2. [Compiling Data (11 min)]
+2. [Compiling Data (11 min)](https://youtu.be/clRuD7s6hVw)
 
-*Optional content*
+   *Optional content*
 - [Creating Structures in MATLAB (30 min)](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html)
-3. [Statistical Modeling of Data (15 min)]
+3. [Statistical Modeling of Data (15 min)](https://youtu.be/vZRElvxmChU)
 
-*Optional content*
+   *Optional content*
 - [Interacting with Tables in MATLAB (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=9)
-4. [Visualizing Data (15 min)]
+4. [Visualizing Data (15 min)](https://youtu.be/IO7tpVn-f9I)
 
-*Optional content*
+   *Optional content*
 - [Visualizing Data in 2D and 3D in MATLAB (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=6)
 
 # Week 6 - Developing a Step-by-Step Data Analysis Pipeline for Open Data
@@ -44,7 +44,7 @@ The remaining content for Weeks 6 and 7 will involve the analysis of [data](http
 6. [Compute Summary Measures](#csm) 
 
 <h3 id="know-your-data">1. Know Your Data</h3>
-Here, we will perform some exploratory data analysis that will require you to import data into MATLAB and perform some basic data visualization. In [Part 1 (16 min)](https://youtu.be/2vmQEn0TTXo?list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z), we review content from the manuscript and data repository related to the study protocol, measurement characteristics, and data organzation. In [Part 2 (46 min)](https://youtu.be/_654sbErhBw?list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z), we load the data in Matlab and use several techniques to explore the data in more detail. If the steps described in the video are new to you, you may want to review the following MATLAB tutorials. 
+Here, we will perform some exploratory data analysis that will require you to import data into MATLAB and perform some basic data visualization. In [Part 1 (16 min)](https://youtu.be/2vmQEn0TTXo), we review content from the manuscript and data repository related to the study protocol, measurement characteristics, and data organzation. In [Part 2 (46 min)](https://youtu.be/_654sbErhBw), we load the data in Matlab and use several techniques to explore the data in more detail. If the steps described in the video are new to you, you may want to review the following MATLAB tutorials. 
 
 - [Using the MATLAB Desktop (0.5 hrs)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=2)
 - [Visualizing Data in 2D and 3D (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=6)
