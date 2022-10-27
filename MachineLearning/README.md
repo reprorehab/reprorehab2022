@@ -12,7 +12,7 @@ _The ABCD-ReproNim AI/ML Course Learning Outcomes._ The AI/ML Course aimed to ad
 * Reusing existing models efficiently.
 * Ethical, legal, and social implications described including but not limited to: biases in datasets, algorithms, and applications; concerns related to privacy and confidentiality; impacts on disadvantaged or marginalized groups and health disparities; and unintended, adverse social consequences of research and development.
 
-Each week of the 5-Week AI/ML course will focus on two pre-recorded lecture videos. Supplemental readings and/or web resources that are paired with each lecture will also be available. Data exercises were provided each week, but these were tailored to the specifics of the ABCD dataset (and predicated upon access to that data set) so those are de-emphasized for the porpose of the ***ReproRehab*** Program. Weekly pre-recorded lectures and exercises were provided on the following topics: 
+Each week of the 5-Week AI/ML course will focus on two pre-recorded lecture videos. Supplemental readings and/or web resources that are paired with each lecture will also be available. Data exercises were provided each week, but these were tailored to the specifics of the ABCD dataset (and predicated upon access to that data set) so those are de-emphasized for the purpose of the ***ReproRehab*** Program. Weekly pre-recorded lectures and exercises were provided on the following topics: 
 
 1. Core Concepts in ML
 1. Supervised/Unsupervised ML
