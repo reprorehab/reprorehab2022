@@ -15,21 +15,21 @@ This week, you will work through the code introduced previously to model a stand
 
 1. [Generating Simulated Data (18 min)](https://youtu.be/IKy4ubpPpI8)
 
-*Optional content*
+   *Optional content*
  - [Creating and Manipulating Arrays (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=3)
  - [Accessing Data in Arrays (30 min)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=4)
  - [If Statements and For Loops (1.5 hrs)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=14)
 2. [Compiling Data (11 min)](https://youtu.be/clRuD7s6hVw)
 
-*Optional content*
+   *Optional content*
 - [Creating Structures in MATLAB (30 min)](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html)
 3. [Statistical Modeling of Data (15 min)](https://youtu.be/vZRElvxmChU)
 
-*Optional content*
+   *Optional content*
 - [Interacting with Tables in MATLAB (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=9)
 4. [Visualizing Data (15 min)](https://youtu.be/IO7tpVn-f9I)
 
-*Optional content*
+   *Optional content*
 - [Visualizing Data in 2D and 3D in MATLAB (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=6)
 
 # Week 6 - Developing a Step-by-Step Data Analysis Pipeline for Open Data
