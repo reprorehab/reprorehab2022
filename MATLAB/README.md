@@ -41,10 +41,9 @@ The remaining content for Weeks 6 and 7 will involve the analysis of [data](http
 3. [Import Data into MATLAB](#idim)
 4. [Perform Manual or Automated Quality Control](#pmoaqc) 
 5. [Perform Necessary Pre-Processing Steps](#pnps) 
-6. [Compute Summary Measures](#csm) 
 
 <h3 id="know-your-data">1. Know Your Data</h3>
-Here, we will perform some exploratory data analysis that will require you to import data into MATLAB and perform some basic data visualization. In [Part 1 (16 min)](https://youtu.be/2vmQEn0TTXo), we review content from the manuscript and data repository related to the study protocol, measurement characteristics, and data organzation. In [Part 2 (46 min)](https://youtu.be/_654sbErhBw), we load the data in Matlab and use several techniques to explore the data in more detail. If the steps described in the video are new to you, you may want to review the following MATLAB tutorials. 
+Here, we will perform some exploratory data analysis that will require you to import data into MATLAB and perform some basic data visualization. In [Part 1 (16 min)](https://youtu.be/2vmQEn0TTXo) , we review content from the manuscript and data repository related to the study protocol, measurement characteristics, and data organzation. In [Part 2 (46 min)](https://youtu.be/_654sbErhBw) , we load the data in Matlab and use several techniques to explore the data in more detail. If the steps described in the video are new to you, you may want to review the following MATLAB tutorials. 
 
 - [Using the MATLAB Desktop (0.5 hrs)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=2)
 - [Visualizing Data in 2D and 3D (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=6)
@@ -78,19 +77,41 @@ We will use a single script to compile the data from the 50 participants collect
 - [Using _load_ to Import Matlab Data (15 min)](https://www.mathworks.com/help/matlab/ref/load.html?searchHighlight=load&s_tid=srchtitle_load_1#d124e871871)
 - [Using _readtable_ to Import Data from csv, txt, or Excel Files (15 min)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=9)
 
-# Week 7
+# Week 7 - Developing a Step-by-Step Data Analysis Pipeline for Open Data (Continued)
+### Expected Time Committment - 4 Hrs
+6. [Compute Summary Measures](#csm)
 7. [Create Figures](#cf)
 8. [Perform statistical analysis](#psa)
 9. [Save the results](#str)
 
 <h3 id="csm">6. Compute Summary Measures </h3>
 <h3 id="cf">7. Create Figures </h3>
+<h3 id="psa">8. Perform Statistical Analysis </h3>
+<h3 id="str">9. Save The Results </h3>
+
+In the last two videos, we review the second of our analysis scripts. Here, we compute the peak ankle dorsiflexion for the average trajectories collected in Lencioni et al., 2019. We then perform a repeated measures ANOVA to determine if these kinematic features varied between normal walking, toe walking, and heel walking. We also create a type of dot plot known as a swarm plot to visualize all of our data and denote pairs of conditions whose angles were found to be  significantly different. Finally, we save our results and export our figure in a publication-quality format.
+
+After watching the videos, you should try to complete the following tasks outlined in the scripts AnalyzeJointAngleData_Step1 and AnalyzeJointAngleData_Step2.
+
+## Tasks to complete within AnalyzeJointAngleData_Step1
+1. Compute the peak knee flexion angle across all trial types and store as the variable 'Peak_Knee_Flex'.
+2. Create a swarm chart to illustrate the distribution of peak ankle dorsiflexion angles for Walking, Heel Walking, and Toe Walking.
+3. Modify the swarm chart to include informative tick marks and labels
+
+## Tasks to complete within AnalyzeJointAngleData_Step2
+1. Create a table named 'Ankle_Dorsi_Table' to hold the peak dorsiflexion values for all participants for Walking, Heel Walking, and Toe Walking.
+2. Create a swarm chart to illustrate the distribution of peak knee flexion angles for Walking, Heel Walking, and Toe Walking.
+3. Modify the swarm chart to include informative tick marks and labels
+4. Perform a repeated-measures ANOVA to determine if there are any statistically significant differences in peak knee flexion between Walking, Heel Walking, and Toe Walking. 
+5. Add annotations to the swarm chart to illustrate for which pairs of conditions the difference in peak knee flexion was found to be statistically significant.
+
+*Optional Content*
 Before creating figures to visualize your data, you should carefully consider the message you are trying to convey and be thoughtful about the type of figure you use to convey that message. The following video 1) provides an overview of the use cases for some of the most common forms of data visualization, 2) introduces key principles for graphical illustration of data, and 3) describes MATLAB-specific strategies for creating high-quality figures
 
 ## Video
 - [Principles of Graphical Illustration of Data in MATLAB (36 min)](https://youtu.be/zBnza3SODw4?list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z)
 
-## Reading (Optional)
+## Reading
 - [Rougier NP, Droettboom M, Bourne PE (2014) Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) 
 - [Weissgerber TL, Milic NM, Winham SJ, Garovic VD (2015) Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm](https://doi.org/10.1371/journal.pbio.1002128) 
 - [Junk Charts](http://junkcharts.typepad.com/)
@@ -99,9 +120,6 @@ Before creating figures to visualize your data, you should carefully consider th
 
 ## Complementary Course (Optional)
 - [Data Visualization for Data Analysts (2 hrs)](https://www.linkedin.com/learning/data-visualization-for-data-analysis-and-analytics)
-
-<h3 id="psa">8. Perform Statistical Analysis </h3>
-<h3 id="str">9. Save The Results </h3>
 
 
 
