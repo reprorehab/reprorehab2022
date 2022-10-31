@@ -66,7 +66,13 @@ We will use a single script to compile the data from the 50 participants collect
 3. Write a 'for' loop to cycle through each trial and store the name of task that the participant performed during that trial. This name can be extracted directly from the participant's data structure.
 
 ## Tasks to complete within CompileJointAngleData_Step2
+1. Use 'switch-case' to modify the definition of variables 'Panels', 'Trial_Name', and 'Joint_Angles_Walking' based on the task performed in the current trial.
+2. Specify the proper input to the plot function to visualize the ankle angle as a function of the gait cycle
+3. Create plots for the knee and hip angles
 
+## Tasks to complete within CompileJointAngleData_Step3
+1. Store the average joint angles for heel walking, toe walking, step ascent, and step descent.
+2. Save the variables containing the average joint angles for the respective tasks to a file called 'Avg_Joint_Ankles.'
 
 *Optional content*
 - [Using _load_ to Import Matlab Data (15 min)](https://www.mathworks.com/help/matlab/ref/load.html?searchHighlight=load&s_tid=srchtitle_load_1#d124e871871)
