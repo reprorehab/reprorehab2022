@@ -49,23 +49,35 @@ Here, we will perform some exploratory data analysis that will require you to im
 - [Using the MATLAB Desktop (0.5 hrs)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=2)
 - [Visualizing Data in 2D and 3D (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=6)
 
-#------------------- WORK IN PROGRESS -------------------
-
 <h3 id="kwyattd">2. Know What You are Trying to Do</h3>
+
+Our goal is to use the data included in the repository linked above to test the hypothesis that the peak ankle doriflexion angle differs between normal walking, heel walking, and toe walking. To test this hypothesis, we first need to compile the joint angle data from all of the participants, compute the peak ankle dorsiflexion angles for each trial, organize the results by trial type, visualize the data, and perform a statistical analysis to test our hypothesis. 
+
 <h3 id="idim">3. Import Data into MATLAB </h3>
-
-- [Using _load_ to Import Matlab Data (15 min)](https://www.mathworks.com/help/matlab/ref/load.html?searchHighlight=load&s_tid=srchtitle_load_1#d124e871871)
-- [Using _readtable_ to Import Data from csv, txt, or Excel Files (15 min)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=9)
-
 <h3 id="pmoaqc">4. Perform Manual or Automated Quality Control </h3>
 <h3 id="pnps">5. Perform Necessary Pre-Processing Steps </h3>
-<h3 id="csm">6. Compute Summary Measures </h3>
+
+We will use a single script to compile the data from the 50 participants collected as part of the study described in Lencioni et al., 2019 and we will also recreate Figure 3 from the same manuscript. The videos linked below walk through the completed code for performing most of these steps. After watching the videos, you should try to complete the following tasks outlined in the scripts CompileJointAngleData_Step1, CompileJointAngleData_Step2, and  CompileJointAngleData_Step3.
+
+## Tasks to complete within CompileJointAngleData_Step1
+
+1. Modify a 'for' loop to make sure that the data from each participant are properly loaded. 
+2. Use the load command in the proper location to load each participant's data
+3. Write a 'for' loop to cycle through each trial and store the name of task that the participant performed during that trial. This name can be extracted directly from the participant's data structure.
+
+## Tasks to complete within CompileJointAngleData_Step2
+
+
+*Optional content*
+- [Using _load_ to Import Matlab Data (15 min)](https://www.mathworks.com/help/matlab/ref/load.html?searchHighlight=load&s_tid=srchtitle_load_1#d124e871871)
+- [Using _readtable_ to Import Data from csv, txt, or Excel Files (15 min)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=9)
 
 # Week 7
 7. [Create Figures](#cf)
 8. [Perform statistical analysis](#psa)
 9. [Save the results](#str)
 
+<h3 id="csm">6. Compute Summary Measures </h3>
 <h3 id="cf">7. Create Figures </h3>
 Before creating figures to visualize your data, you should carefully consider the message you are trying to convey and be thoughtful about the type of figure you use to convey that message. The following video 1) provides an overview of the use cases for some of the most common forms of data visualization, 2) introduces key principles for graphical illustration of data, and 3) describes MATLAB-specific strategies for creating high-quality figures
 
