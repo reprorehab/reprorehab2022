@@ -49,7 +49,9 @@ Our goal is to use the data included in the repository linked above to test the 
 
 ## Importing and Preprocessing Data
 
-We will use a single script to compile the data from the 50 participants collected as part of the study described in Lencioni et al., 2019 and we will also recreate Figure 3 from the same manuscript. The videos linked below walk through the completed code for performing most of these steps. After watching the videos, you should try to complete the following tasks outlined in the scripts CompileJointAngleData_Step1, CompileJointAngleData_Step2, and  CompileJointAngleData_Step3.
+We will use a single script to compile the data from the 50 participants collected as part of the study described in Lencioni et al., 2019 and we will also recreate Figure 3 from the same manuscript. The video linked below walks through the completed code for performing most of these steps. After watching the video, you should try to complete the following tasks outlined in the scripts CompileJointAngleData_Step1, CompileJointAngleData_Step2, and  CompileJointAngleData_Step3.
+
+- [Compiling Joint Angle Data in MATLAB (40 min)](https://www.youtube.com/watch?v=8ztUP-BXinE&list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z&index=10)
 
 ### Tasks to complete within CompileJointAngleData_Step1
 
@@ -75,9 +77,9 @@ We will use a single script to compile the data from the 50 participants collect
 
 ## Summarize, Visualize, and Analyze data 
 
-In the last two videos, we will review the second of our analysis scripts. In this script, we compute the peak ankle dorsiflexion for the average trajectories collected in Lencioni et al., 2019. We then perform a repeated measures ANOVA to determine if peak dorsiflexion varied between normal walking, toe walking, and heel walking. We also create a type of dot plot known as a swarm plot to visualize all of our data and denote pairs of conditions whose angles were found to be  significantly different. Finally, we save our results and export our figure in a publication-quality format.
+In the last video, we will review the second of our analysis scripts. In this script, we compute the peak ankle dorsiflexion for the average trajectories collected in Lencioni et al., 2019. We then perform a repeated measures ANOVA to determine if peak dorsiflexion varied between normal walking, toe walking, and heel walking. We also create a type of dot plot known as a swarm plot to visualize all of our data and denote pairs of conditions whose angles were found to be  significantly different. Finally, we save our results and export our figure in a publication-quality format. After watching the video, you should try to complete the following tasks outlined in the scripts AnalyzeJointAngleData_Step1 and AnalyzeJointAngleData_Step2.
 
-After watching the videos, you should try to complete the following tasks outlined in the scripts AnalyzeJointAngleData_Step1 and AnalyzeJointAngleData_Step2.
+- [Analyzing Joint Angle Data in MATLAB (40 min)](https://www.youtube.com/watch?v=bbpbERTfluE&list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z&index=11)
 
 ## Tasks to complete within AnalyzeJointAngleData_Step1
 1. Compute the peak knee flexion angle across all trial types and store as the variable 'Peak_Knee_Flex'.
@@ -94,17 +96,17 @@ After watching the videos, you should try to complete the following tasks outlin
 *Optional Content*
 Before creating figures to visualize your data, you should carefully consider the message you are trying to convey and be thoughtful about the type of figure you use to convey that message. The following video 1) provides an overview of the use cases for some of the most common forms of data visualization, 2) introduces key principles for graphical illustration of data, and 3) describes MATLAB-specific strategies for creating high-quality figures
 
-## Video
+*Video*
 - [Principles of Graphical Illustration of Data in MATLAB (36 min)](https://youtu.be/zBnza3SODw4?list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z)
 
-## Reading
+*Reading*
 - [Rougier NP, Droettboom M, Bourne PE (2014) Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) 
 - [Weissgerber TL, Milic NM, Winham SJ, Garovic VD (2015) Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm](https://doi.org/10.1371/journal.pbio.1002128) 
 - [Junk Charts](http://junkcharts.typepad.com/)
 - [Tufte, ER (2001) The Visual Display of Quantitative Information.](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/1930824130)
 - [Rosenbaum, DA (2014) Matlab for Behavioral Scientists. Routledge.](https://www.mathworks.com/academia/books/matlab-for-behavioral-scientists-rosenbaum.html)
 
-## Complementary Course (Optional)
+*Complementary Course on Data Visualization*
 - [Data Visualization for Data Analysts (2 hrs)](https://www.linkedin.com/learning/data-visualization-for-data-analysis-and-analytics)
 
 
