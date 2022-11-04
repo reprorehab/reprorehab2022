@@ -50,7 +50,7 @@ Recording from a ReproRehab Git session.
 [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research):
 A curated list of reproducible research case studies, projects, tutorials, and media.
 
-[The Turing Way - Guide for Reproducible Research] (https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html):
+[The Turing Way - Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html):
 This guide covers topics related to skills, tools and best practices for research reproducibility.
 
 Books:
