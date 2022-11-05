@@ -33,3 +33,18 @@ catch
 end
 
 cd .. % back to path with verifyScripts file
+
+%% S4_Create_Figures 
+
+try 
+    S4_Create_Figures
+catch 
+    error('Unable to run S4_Create_Figures');
+end
+
+close all;
+
+cd .. % back to path with verifyScripts file
+
+
+
