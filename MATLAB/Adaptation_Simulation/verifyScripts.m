@@ -12,3 +12,11 @@ catch
 end
 
 close all;
+
+%% S2_Combine_Adaptation_Data
+
+try 
+    S2_Combine_Adaptation_Data
+catch 
+    error('Unable to run S2_Combine_Adaptation_Data'); 
+end
