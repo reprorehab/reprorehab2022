@@ -22,4 +22,14 @@ catch
     error('Unable to run S2_Combine_Adaptation_Data'); 
 end
 
-cd ..
+cd .. % back to path with verifyScripts file
+
+%% S3_Summarize_Adaptation_Data
+
+try 
+    S3_Summarize_Adaptation_Data
+catch 
+    error('Unable to run S3_Summarize_Adaptation_Data')
+end
+
+cd .. % back to path with verifyScripts file
