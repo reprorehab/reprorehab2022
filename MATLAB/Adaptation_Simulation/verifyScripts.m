@@ -15,8 +15,11 @@ close all;
 
 %% S2_Combine_Adaptation_Data
 
+fprintf('Click cancel button.\n'); 
 try 
     S2_Combine_Adaptation_Data
 catch 
     error('Unable to run S2_Combine_Adaptation_Data'); 
 end
+
+cd ..
