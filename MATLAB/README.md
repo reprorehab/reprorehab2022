@@ -79,23 +79,24 @@ We will use a single script to compile the data from the 50 participants collect
 
 ## Summarize, Visualize, and Analyze data 
 
-In the last video, we will review the second of our analysis scripts. In this script, we compute the peak ankle dorsiflexion for the average trajectories collected in Lencioni et al., 2019. We then perform a repeated measures ANOVA to determine if peak dorsiflexion varied between normal walking, toe walking, and heel walking. We also create a type of dot plot known as a swarm plot to visualize all of our data and denote pairs of conditions whose angles were found to be significantly different. Finally, we save our results and export our figure in a publication-quality format. After watching the video, you should try to complete the following tasks outlined in the scripts AnalyzeJointAngleData_Step1 and AnalyzeJointAngleData_Step2.
+In the last video, we will review the second of our analysis scripts. In this script, we compute the peak ankle dorsiflexion for the average trajectories collected in Lencioni et al., 2019. We then perform a repeated measures ANOVA to determine if peak dorsiflexion varied between normal walking, toe walking, and heel walking. We also create a type of dot plot known as a swarm plot to visualize all of our data and denote pairs of conditions whose angles were found to be significantly different. Finally, we save our results and export our figure in a publication-quality format. After watching the video, you should try to complete the following tasks outlined in the scripts `AnalyzeJointAngleData_Step1.m` and `AnalyzeJointAngleData_Step2.m`.
 
 - [Analyzing Joint Angle Data in MATLAB (40 min)](https://www.youtube.com/watch?v=bbpbERTfluE&list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z&index=11)
 
 ## Tasks to complete within AnalyzeJointAngleData_Step1
-1. Compute the peak knee flexion angle across all trial types and store as the variable 'Peak_Knee_Flex'.
+1. Compute the peak knee flexion angle across all trial types and store as the variable `Peak_Knee_Flex`.
 2. Create a swarm chart to illustrate the distribution of peak ankle dorsiflexion angles for Walking, Heel Walking, and Toe Walking.
 3. Modify the swarm chart to include informative tick marks and labels
 
 ## Tasks to complete within AnalyzeJointAngleData_Step2
-1. Create a table named 'Ankle_Dorsi_Table' to hold the peak dorsiflexion values for all participants for Walking, Heel Walking, and Toe Walking.
+1. Create a table named `Ankle_Dorsi_Table` to hold the peak dorsiflexion values for all participants for Walking, Heel Walking, and Toe Walking.
 2. Create a swarm chart to illustrate the distribution of peak knee flexion angles for Walking, Heel Walking, and Toe Walking.
 3. Modify the swarm chart to include informative tick marks and labels
 4. Perform a repeated-measures ANOVA to determine if there are any statistically significant differences in peak knee flexion between Walking, Heel Walking, and Toe Walking. 
 5. Add annotations to the swarm chart to illustrate for which pairs of conditions the difference in peak knee flexion was found to be statistically significant.
 
 *Optional Content*
+
 Before creating figures to visualize your data, you should carefully consider the message you are trying to convey and be thoughtful about the type of figure you use to convey that message. The following video 1) provides an overview of the use cases for some of the most common forms of data visualization, 2) introduces key principles for graphical illustration of data, and 3) describes MATLAB-specific strategies for creating high-quality figures
 
 *Video*
