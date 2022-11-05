@@ -1,6 +1,8 @@
 # Objective
 The objective of the ReproRehab MATLAB curriculum is to help learners gain proficiency creating rigorous, reproducible data analysis pipelines. To this end, you will use a combination of video lectures, online tutorials, and hands-on activities to decipher a pre-existing data analysis pipeline and develop your own analysis scripts for an open-source data set comprised of kinematic, kinetic, and EMG data. As you work through the content, feel free to post comments and questions on ReproRehab Slack or reach out to the Teaching Assistants if you encounter any major challenges along the way.
 
+Table of Contents: [W4](#week-4---introductory-material) | [W5](#week-5---reviewing-a-detailed-matlab-analysis-pipeline) | [W6](#week-6---developing-a-data-analysis-pipeline-in-matlab) | [W7](#week-7---developing-a-data-analysis-pipeline-in-matlab-continued)
+
 # Week 4 - Introductory Material 
 ### Expected Time Commitment - 3-4 Hrs
 If you have not been following the full ReproRehab curriculum, you should begin by watching the Introduction to Data Analysis video from Week 2 [here (40 min)](https://www.youtube.com/watch?v=13IuiwPAPUY). This video reviews key concepts about data and measurement and also provides a detailed description of the steps involved in a standard data analysis pipeline. 
