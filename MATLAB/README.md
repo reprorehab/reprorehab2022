@@ -40,7 +40,7 @@ The remaining content for Weeks 6 and 7 will involve the analysis of [data](http
 
 ## Know Your Data
 
-Here, we will perform some exploratory data analysis that will require you to import data into MATLAB and perform some basic data visualization. In [Part 1 (16 min)](https://youtu.be/2vmQEn0TTXo) , we review content from the manuscript and data repository related to the study protocol, measurement characteristics, and data organization. In [Part 2 (46 min)](https://youtu.be/_654sbErhBw) , we load the data in Matlab and use several techniques to explore the data in more detail. If the steps described in the video are new to you, you may want to review the following MATLAB tutorials. 
+Here, we will perform some exploratory data analysis that will require you to import data into MATLAB and perform some basic data visualization. In [Part 1 (16 min)](https://youtu.be/2vmQEn0TTXo), we review content from the manuscript and data repository related to the study protocol, measurement characteristics, and data organization. In [Part 2 (46 min)](https://youtu.be/_654sbErhBw), we load the data in Matlab and use several techniques to explore the data in more detail. If the steps described in the video are new to you, you may want to review the following MATLAB tutorials. 
 
 - [Using the MATLAB Desktop (0.5 hrs)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=2)
 - [Visualizing Data in 2D and 3D (1 hr)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=6)
@@ -51,28 +51,28 @@ Our goal is to use the data included in the repository linked above to test the 
 
 ## Importing and Preprocessing Data
 
-We will use a single script to compile the data from the 50 participants collected as part of the study described in Lencioni et al., 2019 and we will also recreate Figure 3 from the same manuscript. The video linked below walks through the completed code for performing most of these steps. After watching the video, you should try to complete the following tasks outlined in the scripts CompileJointAngleData_Step1, CompileJointAngleData_Step2, and CompileJointAngleData_Step3.
+We will use a single script to compile the data from the 50 participants collected as part of the study described in Lencioni et al., 2019 and we will also recreate Figure 3 from the same manuscript. The video linked below walks through the completed code for performing most of these steps. After watching the video, you should try to complete the following tasks outlined in the scripts `CompileJointAngleData_Step1.m`, `CompileJointAngleData_Step2.m`, and `CompileJointAngleData_Step3.m`.
 
 - [Compiling Joint Angle Data in MATLAB (40 min)](https://www.youtube.com/watch?v=8ztUP-BXinE&list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z&index=10)
 
 ### Tasks to complete within CompileJointAngleData_Step1
 
-1. Modify a 'for' loop to make sure that the data from each participant are properly loaded. 
-2. Use the load command in the proper location to load each participant's data
-3. Write a 'for' loop to cycle through each trial and store the name of task that the participant performed during that trial. This name can be extracted directly from the participant's data structure.
+1. Modify a `for` loop to make sure that the data from each participant are properly loaded. 
+2. Use the `load` command in the proper location to load each participant's data
+3. Write a `for` loop to cycle through each trial and store the name of task that the participant performed during that trial. This name can be extracted directly from the participant's data structure.
 
 ### Tasks to complete within CompileJointAngleData_Step2
-1. Use 'switch-case' to modify the definition of variables 'Panels', 'Trial_Name', and 'Joint_Angles_Walking' based on the task performed in the current trial.
-2. Specify the proper input to the plot function to visualize the ankle angle as a function of the gait cycle
-3. Create plots for the knee and hip angles
+1. Use `switch-case` to modify the definition of variables `Panels`, `Trial_Name`, and `Joint_Angles_Walking` based on the task performed in the current trial.
+2. Specify the proper input to the plot function to visualize the ankle angle as a function of the gait cycle.
+3. Create plots for the knee and hip angles.
 
 ### Tasks to complete within CompileJointAngleData_Step3
 1. Store the average joint angles for heel walking, toe walking, step ascent, and step descent.
-2. Save the variables containing the average joint angles for the respective tasks to a file called 'Avg_Joint_Ankles.'
+2. Save the variables containing the average joint angles for the respective tasks to a file called `Avg_Joint_Ankles`.
 
 *Optional content*
-- [Using _load_ to Import Matlab Data (15 min)](https://www.mathworks.com/help/matlab/ref/load.html?searchHighlight=load&s_tid=srchtitle_load_1#d124e871871)
-- [Using _readtable_ to Import Data from csv, txt, or Excel Files (15 min)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=9)
+- [Using `load` to Import Matlab Data (15 min)](https://www.mathworks.com/help/matlab/ref/load.html?searchHighlight=load&s_tid=srchtitle_load_1#d124e871871)
+- [Using `readtable` to Import Data from csv, txt, or Excel Files (15 min)](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe#module=9)
 
 # Week 7 - Developing a Data Analysis Pipeline in MATLAB (Continued)
 ### Expected Time Commitment - 4 Hrs
