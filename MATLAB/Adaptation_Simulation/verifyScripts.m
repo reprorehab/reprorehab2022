@@ -46,5 +46,8 @@ close all;
 
 cd .. % back to path with verifyScripts file
 
+%% Print confirmation statement 
 
+clc;
+fprintf('Successfully verified adaptation simulation scripts.\n')
 
