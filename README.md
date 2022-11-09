@@ -100,12 +100,13 @@ ABCD-ReproNim Machine Learning Playlist | [![YouTube Playlist](https://img.shiel
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| Pods | TBD | --- | SfN |
+| Pods | Contact TA | --- | Zoom |
 
 > ### Week 6 (Nov 14)
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
+| NeuroRehab Social (SfN) | 11/14/2022 | 6:30p - 8:30p | Social Tap |
 | Pods | Contact TA | --- | Zoom |
 
 > ### *Nov 21 - No class, Thanksgiving Break*
