@@ -85,7 +85,6 @@ Everyone: [W8-24](#weeks-8---24-everyone)
 | -- | ----- | 
 | ReproRehab: Introduction to R | [![YouTube Playlist](https://img.shields.io/badge/-YouTube-red)](https://www.youtube.com/playlist?list=PLV4PTzGI0GjUz-ZEJ6MYkhT7l7UOsfQLe) |
 | ReproRehab: Introduction to Matlab | [![Coming Soon](https://img.shields.io/badge/-YouTube-red)](https://www.youtube.com/playlist?list=PLV4PTzGI0GjXsLB__HYAsNhbcfk-lL70Z) |
-| First-Time Python, Unity, Arduinos, and Hardware/Software Integration | [![YouTube Playlist](https://img.shields.io/badge/YouTube-red)](https://youtube.com/playlist?list=PLJSDUL80OPJ9viDc__qqBLgTzASdALcQO) |
 | ReproRehab: Very First Time Programming in Python | [![YouTube Playlist](https://img.shields.io/badge/-YouTube-red)](https://www.youtube.com/playlist?list=PLV4PTzGI0GjUw5yoPbsvjMKKSZtCc2FNa) |
 ABCD-ReproNim Machine Learning Playlist | [![YouTube Playlist](https://img.shields.io/badge/-YouTube-red)](https://www.youtube.com/playlist?list=PLV4PTzGI0GjWxSXTSvI6rs_pS5Cf0CD0m) |
 
