@@ -29,7 +29,7 @@ Everyone: [W8-24](#weeks-8---24-everyone)
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| ReproRehab All Hands | Oct 12 | 3p EST | Zoom |
+| ReproRehab All Hands | October 12 | 3p EST | Zoom |
 | Pods | Contact TA | --- | Zoom |
 
 
@@ -106,7 +106,7 @@ ABCD-ReproNim Machine Learning Playlist | [![YouTube Playlist](https://img.shiel
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| NeuroRehab Social (SfN) | 11/14/2022 | 6:30p - 8:30p | Social Tap |
+| NeuroRehab Social (SfN) | November 14 | 6:30p - 8:30p | Social Tap |
 | Pods | Contact TA | --- | Zoom |
 
 > ### *Nov 21 - No class, Thanksgiving Break*
@@ -126,7 +126,7 @@ ABCD-ReproNim Machine Learning Playlist | [![YouTube Playlist](https://img.shiel
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| ReproRehab All Hands | TBD | TBD | Zoom |
+| ReproRehab All Hands | December 5 | 11 - 12:30p PST | Zoom |
 | Pods | Contact TA | --- | Zoom |
 
 
@@ -136,8 +136,12 @@ ABCD-ReproNim Machine Learning Playlist | [![YouTube Playlist](https://img.shiel
 
 | Meetings | Date | Time | Location |
 | ------- | ----- | ---- | -------- |
-| Pods | Contact TA | --- | Zoom |
-| Pods | TBD | --- | ASNR |
+| Pods (OPTIONAL) | Contact TA | --- | Zoom |
+| ASNR Attendees | TBD | --- | ASNR |
+
+If students have questions, post in appropriate Slack channel. 
+
+TAs and ELT have office hours. 
 
 > ### Week 24 (Apr 3) - Follow-up and evaluations 
 
@@ -154,3 +158,5 @@ ABCD-ReproNim Machine Learning Playlist | [![YouTube Playlist](https://img.shiel
 [![Twitter](https://img.shields.io/twitter/follow/reprorehab?style=social)](https://twitter.com/reprorehab)
 
 *[Website](https://www.reprorehab.usc.edu/)*
+
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC1bzWxHW5rMuoJeXDD-sEsQ?label=YouTube%20Subscribers&style=social])](https://www.youtube.com/channel/UC1bzWxHW5rMuoJeXDD-sEsQ/videos)
