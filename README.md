@@ -128,6 +128,9 @@ ABCD-ReproNim Machine Learning Playlist | [![YouTube Playlist](https://img.shiel
 | ReproRehab All Hands | December 5 | 11 - 12:30p PST | Zoom |
 | Pods | Contact TA | --- | Zoom |
 
+|  Content  | Playlist | 
+| -- | ----- | 
+| Week 8: Where do we go from here? From the bootcamp to self guided learning | [![YouTube Playlist](https://img.shields.io/badge/-YouTube-red)](https://www.youtube.com/watch?v=Du70pdIOmSY) |
 
 > ### Weeks 9-24 (Dec 12 - Apr 3) - 4-MONTH SELF-GUIDED PROGRAM 
 
@@ -137,6 +140,10 @@ ABCD-ReproNim Machine Learning Playlist | [![YouTube Playlist](https://img.shiel
 | ------- | ----- | ---- | -------- |
 | Pods (OPTIONAL) | Contact TA | --- | Zoom |
 | ASNR Attendees | TBD | --- | ASNR |
+
+|  Content  | Playlist | 
+| -- | ----- | 
+| Find additional content on ReproRehabDB | [![YouTube Playlist](https://img.shields.io/badge/-YouTube-red)](https://reprorehabdb.usc.edu/) |
 
 If students have questions, post in appropriate Slack channel. 
 
