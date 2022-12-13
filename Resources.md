@@ -57,11 +57,11 @@ Books:
 - [Applied multivariate statistical analysis](https://www.amazon.com/Applied-Multivariate-Statistical-Analysis-Wolfgang/dp/3030260054/ref=pd_lpo_3?pd_rd_i=3030260054&psc=1)
 - [Applied predictive modelling](http://appliedpredictivemodeling.com/)
 
-Geographical and Environmental Data Tutorials in R by Andrew Hooyman:
-[How to merge the neighborhood atlas with 5 digit zip code data in R](https://www.youtube.com/watch?v=9N9zCeYDi9g)
-[How to merge AQI data from the EPA and merge it with participant zip code in R](https://www.youtube.com/watch?v=7aQ76JWoOoc)
-- [github repro with code](https://github.com/hooymana/R_AQI_ZIP_Tutorial)
-[How to merge water quality data with individual zip codes](https://www.youtube.com/watch?v=8mfXv_YA0rc)
-- [github repro with code](https://github.com/hooymana/WPQ_to_ZipCode)
-[How to merge Food Access Data from the USDA with zip code data in R](https://www.youtube.com/watch?v=UlTZc1EwHUQ)
-- [github repro with code](https://github.com/hooymana/R_USDA_FoodAccess_to_Zip)
+###Geographical and Environmental Data Tutorials in R by Andrew Hooyman:
+- [How to merge the neighborhood atlas with 5 digit zip code data in R](https://www.youtube.com/watch?v=9N9zCeYDi9g)
+- [How to merge AQI data from the EPA and merge it with participant zip code in R](https://www.youtube.com/watch?v=7aQ76JWoOoc)
+-   [github repro with code](https://github.com/hooymana/R_AQI_ZIP_Tutorial)
+- [How to merge water quality data with individual zip codes](https://www.youtube.com/watch?v=8mfXv_YA0rc)
+-   [github repro with code](https://github.com/hooymana/WPQ_to_ZipCode)
+- [How to merge Food Access Data from the USDA with zip code data in R](https://www.youtube.com/watch?v=UlTZc1EwHUQ)
+-   [github repro with code](https://github.com/hooymana/R_USDA_FoodAccess_to_Zip)
