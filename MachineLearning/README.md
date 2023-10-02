@@ -81,7 +81,7 @@ _Readings:_
 1. [Logistic Regression](https://www.youtube.com/watch?v=gNhogKJ_q7U)
 1. [Decision Trees](https://alliance.seas.upenn.edu/~cis520/wiki/index.php?n=Lectures.DecisionTrees)
 
-####Unsupervised Machine Learning
+#### Unsupervised Machine Learning
 Instructor: **Eric Bridgeford**, Johns Hopkins University (JHU)
 
 [Video](https://youtu.be/zewLyPPlqqg) [Slides](https://drive.google.com/file/d/1YdXH0sQr2e4OqCuuCUBtEd8Jx1-KecVo/view?usp=sharing)
